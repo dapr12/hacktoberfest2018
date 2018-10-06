@@ -814,3 +814,9 @@ Place: São Paulo, Brazil<br/>
 About: I am studying System development.<br/>
 Programming Language:PHP, Java, Pascal<br/>
 
+
+
+Name: [Diego Perez](https://github.com/dapr12)<br/>
+Place: Manchester, UK<br/>
+About: PhD in Statistics.<br/>
+Programming Language:R, Phyton, Julia, Java.<br/>
